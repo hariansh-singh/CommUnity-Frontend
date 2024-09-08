@@ -1,0 +1,27 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Build output
+dist/
+build/
+
+# Dependency directories
+jspm_packages/
+
+# VS Code files
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Other files to ignore
+coverage/
+.idea/
